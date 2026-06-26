@@ -30,12 +30,11 @@ public class ObjectGenerate : MonoBehaviour
     void Start()
     {
         ObjectGenerate();
-
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        ObjectMove();
     }
 }
