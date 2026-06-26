@@ -8,6 +8,7 @@ public class ObjectGenerate : MonoBehaviour
     private float positionX;
     private float positionY;
     private float positionZ;
+    
 
         private void TargetGenerate() //Targetの生成
     {
